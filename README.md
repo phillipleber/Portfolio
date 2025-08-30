@@ -1,108 +1,29 @@
-\# Phillip Leber — IT/DevOps Portfolio
+# IT Learning Portfolio
 
+This repository documents my journey into IT infrastructure.  
+My goal is to build a strong foundation in five core areas that are essential for modern IT environments:
 
-
-👋 Welcome to my portfolio!  
-
-This repository documents my journey in \*\*Linux, IT infrastructure, and DevOps\*\*.  
-
-It serves as a central hub for my projects, scripts, and learning progress.
-
-
-
----
-
-
-
-\## 🚀 About Me
-
-\- 🌍 Location: Germany  
-
-\- 🎯 Interests: Linux, networking, automation, cloud  
-
-\- 💡 Goal: Gain full-stack expertise in infrastructure \& cloud technologies  
-
-\- ✉️ Contact: leber.phillip@gmail.com  
-
-
+1. **Operating Systems** – Focus on Linux and system internals  
+2. **Networks** – Understanding protocols, services, and security  
+3. **Coding** – Developing problem-solving skills with programming  
+4. **Databases** – Learning data models, queries, and administration  
+5. **Docker & Virtualization** – Modern deployment and infrastructure practices  
 
 ---
 
-
-
-\## 🛠️ Skills \& Technologies (in progress)
-
-\- \*\*Linux\*\* (Ubuntu, Bash, shell scripting)  
-
-\- \*\*Git \& GitHub\*\* (version control, collaboration)  
-
-\- \*\*Scripting\*\* (Bash, Python planned)  
-
-\- \*\*DevOps Basics\*\*: automation, containers (Docker), CI/CD (upcoming)  
-
-
+## Repository Structure
+- [Operating Systems](./Operating-Systems)
+- [Networks](./Networks)
+- [Coding](./Coding)
+- [Databases](./Databases)
+- [Docker & Virtualization](./Docker-Virtualization)
 
 ---
 
-
-
-\## 📂 Projects
-
-Here’s an overview of projects (continuously updated):
-
-
-
-\### 1. Linux Scripts
-
-Simple shell scripts to automate everyday tasks.  
-
-➡️ \[linux-scripts/](./linux-scripts/)
-
-
-
-\### 2. Notes
-
-Markdown files documenting my knowledge and progress.  
-
-➡️ \[notes/](./notes/)
-
-
-
-\### 3. Monitoring Lab (planned)
-
-Setting up a small lab using \*\*Prometheus + Grafana\*\* for server monitoring.  
-
-
+## Goals
+- Create structured notes and scripts for each topic  
+- Build small practical projects to apply concepts  
+- Share progress and reflections along the way  
 
 ---
-
-
-
-\## 📈 Learning Progress
-
-\- ✅ Set up Git \& GitHub  
-
-\- ✅ Created first repository  
-
-\- 🚧 Building Linux-related projects  
-
-\- 🚧 Planning automation and monitoring environments  
-
-
-
----
-
-
-
-\## 🤝 Connect
-
-\- \[GitHub Profile](https://github.com/phillipleber)  
-
-\- LinkedIn (coming soon)  
-
-
-
----
-
-
-
+🚀 *This repository is part of my personal learning path towards IT infrastructure and cloud computing.*
